@@ -13,5 +13,6 @@
         "math"
     ],
     "author": "Yosef Spira",
+    "git": "https://github.com/spiray/exponentiation",
     "license": "MIT"
 }
