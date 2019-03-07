@@ -1,4 +1,4 @@
-export default function exponentiation(num, exp) {
+module.exports = function exponentiation(num, exp) {
     try {
         return num ** exp;
     } catch (err) {
