@@ -14,7 +14,7 @@
     ],
     "repository": {
         "type": "git",
-        "url": "https://github.com/spiray/exponentiation"
+        "url": "https://github.com/spiray/exponentiation.git"
     },
     "author": "Yosef Spira",
     "license": "MIT"
