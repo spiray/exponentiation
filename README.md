@@ -16,9 +16,9 @@ Then, require the package and use it like so:
     const exp = require('exponentiation');
 
     console.log(exp(2, 10)); // 1024
-    console.log(exp(null)); // NaN
-    console.log(exp(undefined)); // NaN
-    console.log(exp(0, 0)); // 1
+    console.log(exp(1, '0')); // 1
+    console.log(exp(null, 3)); // Error: Both arguments must be numbers.
+    console.log(exp(1, undefined)); // Error: Both arguments must be numbers.
 ```
 
 ## License
