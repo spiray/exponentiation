@@ -8,7 +8,7 @@ module.exports = function exponentiation(num, exp) {
         try {
             return Math.pow(base, exponent);
         } catch (err) {
-            console.error(error);
+            console.error(err);
         }
     }
 }
