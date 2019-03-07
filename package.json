@@ -2,6 +2,7 @@
     "name": "exponentiation",
     "version": "1.0.10",
     "description": "Package to assist in easy exponentiation.",
+    "homepage": "https://github.com/spiray/exponentiation",
     "main": "index.js",
     "scripts": {
         "test": "echo \"Error: no test specified\" && exit 1"
@@ -12,9 +13,9 @@
         "exponentiation",
         "math"
     ],
-    "repository": {
-        "type": "git",
-        "url": "https://github.com/spiray/exponentiation.git"
+    "repository": "spiray/exponentiation",
+    "bugs": {
+        "url": "https://github.com/spiray/exponentiation/issues"
     },
     "author": "Yosef Spira",
     "license": "MIT"
