@@ -1,3 +1,5 @@
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) ![npm](https://img.shields.io/npm/dt/exponentiation.svg)
+
 # exponentiation
 
 A Node.js package that assists in easy exponentiation.
