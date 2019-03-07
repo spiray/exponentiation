@@ -1,6 +1,6 @@
 {
     "name": "exponentiation",
-    "version": "1.0.12",
+    "version": "1.0.13",
     "description": "Package to assist in easy exponentiation.",
     "homepage": "https://github.com/spiray/exponentiation",
     "main": "index.js",
