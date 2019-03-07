@@ -1,6 +1,6 @@
 {
     "name": "exponentiation",
-    "version": "1.0.4",
+    "version": "1.0.5",
     "description": "Package to assist in easy exponentiation.",
     "main": "index.js",
     "scripts": {
