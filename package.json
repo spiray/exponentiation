@@ -4,7 +4,9 @@
     "description": "Package to assist in easy exponentiation.",
     "homepage": "https://github.com/spiray/exponentiation",
     "main": "index.js",
-    "scripts": {},
+    "scripts": {
+        "test": "jest --verbose --coverage"
+    },
     "keywords": [
         "pow",
         "exponent",
@@ -16,5 +18,8 @@
         "url": "https://github.com/spiray/exponentiation/issues"
     },
     "author": "Yosef Spira",
-    "license": "MIT"
+    "license": "MIT",
+    "devDependencies": {
+        "jest": "^24.9.0"
+    }
 }

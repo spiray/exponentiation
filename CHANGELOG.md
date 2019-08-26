@@ -9,15 +9,15 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 #### Changed
 #### Removed -->
 
-## Major Releases:
+## Major Releases
 ### v1.0.0 - 2018 12 19
-* Initial Release
+  * Initial Release
 
-## Minor Releases:
+## Minor Releases
 ### v1.0.14 - 2019 3 11
 #### Added
-- CHANGELOG.md
-- .gitignore
+  * CHANGELOG.md
+  * .gitignore
 
 <!-- LINKS -->
 <!-- RELEASES -->
