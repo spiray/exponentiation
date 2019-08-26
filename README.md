@@ -1,4 +1,4 @@
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) ![npm](https://img.shields.io/npm/v/exponentiation.svg) ![npm](https://img.shields.io/npm/dt/exponentiation.svg)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) ![npm](https://img.shields.io/npm/v/exponentiation.svg) ![npm](https://img.shields.io/npm/dt/exponentiation.svg) [![Codacy Badge](https://api.codacy.com/project/badge/Grade/9578b938355b4daa97c5ab63cf68a028)](https://www.codacy.com/app/spiray/exponentiation?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=spiray/exponentiation&amp;utm_campaign=Badge_Grade)
 
 # exponentiation
 
